@@ -1,0 +1,199 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+section{
+    margin: 0 auto;
+    width: 900px;
+    height: 1400px;
+    background-color: black
+}
+
+.centered div{ 
+    margin: 10px 10px;
+    width: 250px;
+    height: 250px;
+    background-color: darkgreen;
+    display: inline-block;
+    
+}
+.centered {
+    margin: 0 auto;
+    display: table;
+}
+.centered div>article{
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    background-color: darkred;
+    border-radius: 50%;
+}
+
+.centrado {
+    margin: 0 auto;
+    display: table;
+}
+
+.centrado nav{
+    margin: 30px 10px;
+    width: 300px;
+    height: 300px;
+    background-color: darkgreen;
+    display: inline-block;
+}
+.centrado nav>article{
+    margin: 25px auto;
+    width: 250px;
+    height: 250px;
+    background-color: darkred;
+    border-radius: 50%;
+}
+fut{
+    margin: 30px 50px;
+    width: 800px;
+    height: 700px;
+    background-color: darkgreen;
+    display: inline-block;
+}
+
+fut>p{
+    margin: 30px 12px;
+    width: 230px;
+    height: 600px;
+    background-color: darkred;
+    display: inline-block;
+}
+fut>p>i{
+    margin: 30px 12px;
+    width: 180px;
+    height:160px;
+    display: block;
+    background-color: silver;
+}
+fut>p>a{
+    margin: 30px 30px;
+    width: 180px;
+    height:160px;
+    display: block;
+    background-color: silver;
+    border-radius: 50%;
+}
+fut>p>crono{
+    margin: 30px 10px;
+    width:200px;
+    height:500px;
+    background-color: silver;
+    border-radius: 90%;
+    display: block;
+}
+
+.d1{
+    margin: auto;
+    width: 1200px;
+    height: 1300px;
+    background-color: blue;
+
+}
+
+.a1{
+    margin: 10px 20px;
+    width: 550px;
+    height: 550px;
+    background-color: black;
+    display: inline-block;
+
+}
+
+.p1{
+    margin: 10px;
+    width: 250px;
+    height: 250px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    border-radius: 50%;
+
+}
+
+.a2{
+    margin: 30px auto;
+    width: 550px;
+    height: 275px;
+}
+
+.a3{
+    margin: 20px 20px;
+    width: 225px;
+    height: 300px;
+    background-color: black;
+    display: inline-block;
+}
+
+.p2{
+    margin: 20px 10px;
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: blanchedalmond
+}
+
+.a4{
+    margin: 20px 20px;
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    display: inline-block;
+}
+
+.p3{
+    margin: 10px 15px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: blanchedalmond;
+    display: inline-block;
+}
+
+.Contenedor {
+    margin: 0 auto;
+    display: table;
+}
+
+.d4-1{
+    margin: auto;
+    width: 1200px;
+    height: 1500px;
+    background-color: chocolate;
+}
+
+.s4-1{
+    margin: 10px 37px;
+    width: 490px;
+    height: 320px;
+    background-color: darkgreen;
+    display: inline-block;
+}
+
+.a4-1{
+    margin: 15px 25px;
+    width: 430px;
+    height: 280px;
+    background-color: firebrick;
+    display: table;
+}
+
+.p4-1{
+    margin: 12px 20px;
+    width: 400px;
+    height: 250px;
+    background-color: gray;
+}
+
+.s4-2{
+    margin: 10px 15px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blanchedalmond;
+    display: inline-block;
+
+}
